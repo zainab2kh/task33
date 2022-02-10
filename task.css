@@ -1,0 +1,76 @@
+body{background-color: rgb(245, 245, 179);}
+
+div{ 
+    
+    background-color: rgb(53, 53, 56);
+    width: 1480px;
+    height: 30px; 
+    position: sticky;
+    margin-top: -7px; 
+    padding-top: 7px;
+    padding-left: 20px; 
+}
+.mm{
+    background-size: cover;
+    width: 1500px;
+}
+ 
+ .ff{
+     background-color: rgb(104, 100, 100);
+     border-left: 3px solid green;
+     width: 120px;
+     padding: 20px;
+     font-size: larger;
+     font-weight: bold;
+ }
+
+ .sofa{
+      background-size: cover;
+      width: 500px;
+      height: 650px;
+      margin:auto;
+      border: 1px solid black;
+
+ }
+
+ .aboutus{
+     width: 600px;
+ }
+ p{ 
+     width: 600px;
+    background-color: rgb(175, 177, 164);
+    }
+.gg{
+     width: 600px;
+     height: 450px;
+     float: right;
+    margin-top: -480px;
+}
+
+.form{
+       background-image: url(img/22.jfif);
+       background-size: cover;
+       width: 1500px;
+       height: 750px;
+       background-repeat: no-repeat;
+       text-align: center;
+      
+}
+
+.name{
+       
+       height: 180px;
+       width: 1500px;
+}
+
+.naph{
+    background-color: rgb(150, 150, 79);
+    width: 1480px;
+    height: 30px; 
+}
+.ss{ 
+    background-image: url(img/22.jfif);
+    background-repeat: no-repeat;
+     height: 100px;
+     width: 1480px;
+}

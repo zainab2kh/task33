@@ -1,0 +1,23 @@
+
+body{
+       background-color: rgb(192, 188, 188);
+       direction: rtl;
+}
+.face
+{
+   background-color: rgb(248, 248, 236);
+   width: 200px;
+   height: 200px;
+   border: 1px solid rgb(250, 247, 247);
+   margin: 350px ;
+   float: left;
+   
+}
+.p{
+ display: inline-block;
+ margin-top: 400px;
+ text-align: center;
+ margin-right: 250px;
+ 
+    
+}
